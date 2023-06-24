@@ -1,0 +1,16 @@
+Realizar un proyecto en next.js
+
+> npx create-next-app <nombre-de-aplicacion> (crear proyecto en next.js)
+> npm install (instalar node_modules)
+> npm run dev (correr proyecto en el localhost)
+
+Instalar axios
+
+> npm install axios
+
+BackEnd en node.js
+
+> npm init
+> npm install express
+> npm install nodemon (opcional)
+> npm install body-parser 

@@ -1,0 +1,17 @@
+1. Crear carpeta 
+2. Abrir portable git 
+3. cd repositorio 
+4. git clone link 
+5. cd mombre de caroeta 
+6. git status 
+7. git add . 
+8. git status 
+9. git commit -m "gaaa" 
+10. git config --global 
+11. git commit -m "gaaa" 
+12. git push 
+13. log in 
+14. git branch 
+15. git branch nombre 
+16. git switch nombre 
+17. git push --set-upstream origin nombre
